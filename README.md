@@ -38,9 +38,8 @@ The analysis tries to indicate the current condition of the New York City bike-s
 We can figure out several critical factors for the share bike business from the above visualization: trip duration, people's most common usage time for bikes, and user types. Also, males use bikes far more than females. Third, subscribers always use bikes during their commute, and customers usually use them for weekend pleasure. So we can provide enough bike supply on popular start place at weekday and more on leisure places during the weekend based on specific city situation. 
 
 
-Two additional visualizations are suggested for future analysis (Please see the images and descriptions above):
-1. Top starting location 
-The company can provide more bikes on these top starting locations to avoid the supply shortage, especially for the busy working hours. 
+Two additional visualizations are suggested for future analysis:
+1. Top stop locations during the weekend
 
-2. Popular birth year of users
-The bar chart shows that people born in 1969 get the highest volume. 
+2. The bike usage time compared with different seasons
+
