@@ -1,6 +1,6 @@
 # NYC_Citibike
 ## Overview of the statistical analysis
-The analysis tries to indicate the current condition of the New York City bike-sharing business and perform some guide for Kate to build a similar business in her hometown, Des Moines. The project metrics include the use crowd, workday using hours, and trip duration based on Tableau to display the visualization. 
+The analysis tries to indicate the current condition of the New York City bike-sharing business and perform some guide for Kate to build a similar business in her hometown, Des Moines. The project metrics include the use crowd, workday using hours, and trip duration based on Tableau to display the visualization. [link to dashboard](https://public.tableau.com/app/profile/kylie6599/viz/NYCCityBike_16447784626870/NYCBikes)
 
 ## Results
 
